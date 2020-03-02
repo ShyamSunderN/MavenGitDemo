@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[SeleniumHQ Browser Automation]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="111879" started-at="2020-02-29T17:06:19Z" finished-at="2020-02-29T17:08:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="111879" started-at="2020-02-29T17:06:19Z" finished-at="2020-02-29T17:08:10Z">
+      <class name="TC_01">
+        <test-method status="PASS" signature="testOne()[pri:0, instance:TC_01@59fa1d9b]" name="testOne" duration-ms="111764" started-at="2020-02-29T17:06:19Z" finished-at="2020-02-29T17:08:10Z">
+          <reporter-output>
+            <line>
+              <![CDATA[SeleniumHQ Browser Automation]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+      </class> <!-- TC_01 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
